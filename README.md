@@ -22,9 +22,9 @@ Finally, if the user clicks 4 the program will exit!
 <img width="976" alt="exit" src="https://github.com/user-attachments/assets/712b6982-0618-48ba-844c-157a2f557c25" />
 
 # Functions:
-User enters password 
-Program stores password
-User given masterkey 
-Program only releases passwords if correct masterkey is entered into terminal 
+* User enters password 
+* Program stores password
+* User given masterkey 
+* Program only releases passwords if correct masterkey is entered into terminal 
 
 
