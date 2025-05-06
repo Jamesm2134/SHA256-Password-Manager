@@ -12,7 +12,7 @@ To store a password, click 1 and enter the password you want to store
 The password is then ran through the hash function and returns a masterkey to the user for later retrieval of the password
 <img width="980" alt="2test" src="https://github.com/user-attachments/assets/dae3ac44-db5b-4451-ab28-045511c3bbcf" />
 
- If the user enters the wrong masterkey when trying to retieve the password, they will be prompted with this message and told to try again
+If the user enters the wrong masterkey when trying to retieve the password, they will be prompted with this message and told to try again
 <img width="982" alt="2failtest" src="https://github.com/user-attachments/assets/48986786-606b-4ce4-ace4-dc3953a46464" />
 
 After each password it entered, the prgram stores the hashed password in a txt file. This is where the user can see if the password was entered correctly. The user is also prompted with the option to clear the txt file and dictionary where the passwords are stored.
