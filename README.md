@@ -31,3 +31,7 @@ Finally, if the user clicks 4 the program will exit!
 * User is able to check txt file that holds all the passwords
 
 
+# Hash table vs Dictionary 
+* Something I thought about was whether I should use a hashtable or dictionary to store all the information. I choose to use the dictionary instead of the hashtable because of the performance and readability. It also works easier since I do not have to cast the values.
+
+
