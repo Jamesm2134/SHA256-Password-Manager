@@ -12,6 +12,6 @@ The password is then ran through the hash function and returns a masterkey to th
 If the user enters the wrong masterkey when trying to retieve the password, they will be prompted with this message and told to try again
 <img width="982" alt="2failtest" src="https://github.com/user-attachments/assets/48986786-606b-4ce4-ace4-dc3953a46464" />
 After each password it entered, the prgram stores the hashed password in a txt file. This is where the user can see if the password was entered correctly. The user is also prompted with the option to clear the txt file and dictionary where the passwords are stored.
-<img width="470" alt="haaa" src="https://github.com/user-attachments/assets/43679500-8286-40b7-859c-f4eb2d975962" />
+<img width="972" alt="333333333333" src="https://github.com/user-attachments/assets/f22b995b-a80f-48ba-8dc6-a6d8dc48c0ec" />
 Finally, if the user clicks 4 the program will exit!
 <img width="976" alt="exit" src="https://github.com/user-attachments/assets/712b6982-0618-48ba-844c-157a2f557c25" />
