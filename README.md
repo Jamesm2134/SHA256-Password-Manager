@@ -24,9 +24,9 @@ Finally, if the user clicks 4 the program will exit!
 # Functions:
 * User enters password
 * Program
-*   Hashes password
-*   Stores password
-*   Retuns masterkey
+    * Hashes password
+    * Stores password
+    * Returns masterkey
 * Program only releases passwords if correct masterkey is entered into terminal 
 
 
